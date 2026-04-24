@@ -28,15 +28,25 @@ I focus on solving real-world problems with data-driven approaches and continuou
 
 ## 🚀 Projects
 
-- 📊 **Sports Data Analysis (IPL, PSL, EPL)**  
-  Data-driven insights, performance trends & predictions  
+- 🏠 **House Price Prediction System**  
+  Developed an end-to-end machine learning model for accurate house price prediction using feature engineering and optimized training.  
+  **Impact:** Achieved strong prediction performance with optimized model accuracy and reduced error.  
+
+- 📊 **Multi-Company Financial Analysis**  
+  Performed comparative financial analysis using key metrics and visualizations to extract meaningful business insights.  
+  **Impact:** Identified key growth trends and performance gaps across companies for data-driven decision-making.  
+
+- ⚽ **Sports Data Analysis (IPL, PSL, EPL)**  
+  Applied data-driven techniques to uncover performance trends, match insights, and predictive patterns.  
+  **Impact:** Generated actionable insights on team performance and win probability trends.  
 
 - 🍔 **Food Analysis using Machine Learning**  
-  Classification & prediction of nutritional values
+  Built ML models to classify and predict nutritional values with effective data preprocessing and evaluation.  
+  **Impact:** Improved prediction consistency through proper data handling and model evaluation.  
 
-- 📊 **Multi-Company Financial Analysis**
-  Compared multiple companies based on revenue, profit, asset changes, and market value.  
-  Used data visualization techniques to uncover trends, patterns, and actionable insights.
+- 🤖 **NLP / Deep Learning Project (Coming Soon)**  
+  Exploring advanced AI models for real-world applications such as sentiment analysis and intelligent systems.  
+  **Impact:** Aiming to build scalable and high-performance AI solutions.
 
   
 ## 🌐 Socials:
