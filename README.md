@@ -1,3 +1,4 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=faizurrehman-ai&color=blue)
 # 👋 Hi, I'm Faiz Ur Rehman
 
 🚀 **Machine Learning | Deep Learning | Data Science Enthusiast**
